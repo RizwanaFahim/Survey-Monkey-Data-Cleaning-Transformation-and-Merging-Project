@@ -6,11 +6,11 @@
 
 
 
-This project analyzes survey data to extract insights on employee demographics, including division, position level, generation, gender, tenure, and employment type within an organization. 
+* This project analyzes survey data to extract insights on employee demographics, including division, position level, generation, gender, tenure, and employment type within an organization. 
 
-By merging and cleaning the data, filtering and aggregating survey responses, it provides HR professionals and management teams with valuable information for decision-making and strategy development. 
+* By merging and cleaning the data, filtering and aggregating survey responses, it provides HR professionals and management teams with valuable information for decision-making and strategy development. 
 
-The results are saved in an Excel file for easy access and further utilization.
+* The results are saved in an Excel file for easy access and further utilization.
 
 
 ## Screenshots
